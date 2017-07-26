@@ -1,0 +1,14 @@
+# Editor backup files
+*~
+\#*
+.\#*
+.*.swp
+
+# Python
+*.pyc
+__pycache__/
+
+
+# Local Variables:
+# mode: conf
+# End:
